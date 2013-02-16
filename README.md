@@ -1,4 +1,1 @@
-cd
-==
-
-Project repository for the CD.
+Branch for working on a entity diagram for the CD.
