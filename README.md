@@ -1,6 +1,4 @@
 cd
 ==
 
-cd
-
-test
+Project repository for the CD.
